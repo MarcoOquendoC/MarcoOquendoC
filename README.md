@@ -3,7 +3,7 @@
 
 
 - 👋 Hi again 😄, I’m Marco Oquendo a Junior Developer striving to be a Full-Stack Web/Mobile Developer.
-- 🌱 I’m currently learning everything about Frontend and Backend technologies like HTML/CSS, JavaScript, Bootstrap, Webpack and others.
+- 🌱 I’m currently learning everything about Frontend and Backend technologies like HTML/CSS, JavaScript, Bootstrap, Webpack and others thorugh the awesome online school [Microvese](https://www.microverse.org/).
 - 🤔 I’m looking for help with learning more technologies.
 - 📫 How to reach me: marcooquendoc@gmail.com, [LinkedIn](https://www.linkedin.com/in/marco-vinicio-oquendo-4a289156/)
 
