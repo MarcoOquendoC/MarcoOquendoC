@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Oquendo</h1>
 <h3 align="center">A Passionate Remote Full-Stack Web developer</h3>
 
+One day while working in the electrical sector, I fell in love with coding and making my computer do things by itself with only one click, then I fell without resistance into this wonderful and addictive world of programming, in which ideas suddenly come while you talk or go for a walk like a big punch from another world.
 
 - 👋 Hi again 😄, I’m Marco Oquendo a Junior Developer striving to be a Full-Stack Web/Mobile Developer.
-- 🌱 I’m currently learning everything about Frontend and Backend technologies like HTML/CSS, JavaScript, Bootstrap, Webpack and others with the help of the awesome online school [Microverse](https://www.microverse.org/). ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🌱 I’m currently learning everything about Frontend and Backend technologies like HTML/CSS, JavaScript, Webpack and others with the help of the awesome online school [Microverse](https://www.microverse.org/). ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 🤔 I’m looking for help with learning more technologies.
 - 📫 How to reach me: marcooquendoc@gmail.com, [LinkedIn](https://www.linkedin.com/in/marco-vinicio-oquendo-4a289156/)
 
