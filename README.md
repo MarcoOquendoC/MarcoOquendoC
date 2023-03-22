@@ -6,7 +6,7 @@ One day while working in the electrical sector, I fell in love with coding and m
 - 👋 Hi again 😄, I’m Marco Oquendo a Junior Developer striving to be a Full-Stack Web/Mobile Developer.
 - 🌱 I’m currently learning everything about Frontend and Backend technologies like HTML/CSS, JavaScript, Webpack and others with the help of the awesome online school [Microverse](https://www.microverse.org/). ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 🤔 I’m looking for help with learning more technologies.
-- 📫 How to reach me: marcooquendoc@gmail.com, [LinkedIn](https://www.linkedin.com/in/marco-vinicio-oquendo-4a289156/), [Portfolio](https://marcooquendoc.github.io/Portfolio/)
+- 📫 How to reach me: marcooquendoc@gmail.com, [LinkedIn](https://www.linkedin.com/in/marco-vinicio-oquendo-4a289156/), [Portfolio](https://marcooquendoc.github.io/Portfolio/), <a href="https://marcooquendoc.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
