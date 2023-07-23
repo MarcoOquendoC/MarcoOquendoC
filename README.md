@@ -28,7 +28,7 @@ One day while working in the electrical sector, I fell in love with coding and m
 </a>
 
 <a href="https://leetcode.com/marcooquendoc/" target="blank">
-  <img align="center" src="https://th.bing.com/th/id/R.35a856b473ceec15a97c801937406aa3?rik=%2bBYOkE9BrT9MFg&pid=ImgRaw&r=0" alt="leetcode Marco" width="40" />
+  <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode Marco" width="40" />
 </a>
 </p>
 
