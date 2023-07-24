@@ -11,7 +11,7 @@ One day while working in the electrical sector, I fell in love with coding and m
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/marco-vinicio-oquendo-4a289156/" target="blank">
+<a href="https://www.linkedin.com/in/marcooquendoc/" target="blank">
   <img align="center" src="https://th.bing.com/th/id/R.0e054d84572f596482c49a555acaf2e3?rik=8ExOe5XtGZ0sZA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flinkedin-icon-vector-png-linkedin-icon-image-31474-linkedin-png-1218.png&ehk=GoIAawqNYwRdyVQd%2baBScYllWsMniaQyur0KwS%2fxeCY%3d&risl=&pid=ImgRaw&r=0" alt="LinkedIn Marco" width="40" />
 </a>
 
